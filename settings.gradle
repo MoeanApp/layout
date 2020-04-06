@@ -1,0 +1,2 @@
+include ':app', ':wear', ':CalendarViewLib', ':Calendar'
+rootProject.name='Moean_P'
